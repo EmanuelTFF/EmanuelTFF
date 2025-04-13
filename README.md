@@ -22,12 +22,12 @@
   <img align="center" alt="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img align="center" alt="GitHub" height="50" width="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
   <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
-  <img align="center" alt="Android Studio" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg">
+  <img align="center" alt="Android Studio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 
   <!-- Frameworks e plataformas -->
   <img align="center" alt="React Native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Firebase" height="40" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-  <img align="center" alt="Supabase" height="40" width="40" src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-logo-icon.svg">
+  <img align="center" alt="Supabase" height="40" width="40" src="https://user-images.githubusercontent.com/6711845/178144596-57d08e23-590c-4c27-8f43-00425cb748f3.png">
 </div>
 ----
 
