@@ -1,7 +1,7 @@
 <h1 align="center">Fala aí, eu sou o Emanuel 👋</h1>
 
 <p align="center"> 
-  💻 Desenvolvedor em formação |
+  | Desenvolvedor em formação |
  
 <p align="left">
   <a href="https://www.linkedin.com/in/emanuel-tonis-florz-filho-90139b292/" target="blank">
