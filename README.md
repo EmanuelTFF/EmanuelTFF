@@ -27,7 +27,7 @@
   <!-- Frameworks e plataformas -->
   <img align="center" alt="React Native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Firebase" height="40" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-  <img align="center" alt="Supabase" height="40" width="40" src="https://user-images.githubusercontent.com/6711845/178144596-57d08e23-590c-4c27-8f43-00425cb748f3.png">
+  <img align="center" alt="Supabase" height="40" width="40" src="https://api.iconify.design/logos:supabase-icon.svg">
 </div>
 ----
 
