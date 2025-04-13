@@ -30,10 +30,5 @@
   <img align="center" alt="Supabase" height="40" width="40" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png">
 </div>
 ----
-⭐ Status GitHub ⭐
-</p>
-  <a href="https://github.com/EmanuelTFF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgepiter&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgepiter&layout=compact&langs_count=7&theme=dracula"/>
 
    ![Snake animation](https://github.com/georgepiter/georgepiter/blob/output/github-contribution-grid-snake.svg)
