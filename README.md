@@ -1,10 +1,17 @@
+<h1 align="center">Fala aí, eu sou o Emanuel 👋</h1>
+
+<p align="center"> 
+  💻 Desenvolvedor em formação |
+ 
 <p align="left">
-<a href="https://www.linkedin.com/in/emanuel-tonis-florz-filho-90139b292/" target="blank"><img align="center" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
- alt="www.linkedin.com/in/EmanuelTFF" height="25" width="80" /></a>
+  <a href="https://www.linkedin.com/in/emanuel-tonis-florz-filho-90139b292/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-----
-<h3 align="left" >🚀Skills</h3> 
+---
+
+## 🚀 Skills
 
 <div style="display: inline_block"><br>
   <!-- Linguagens -->
@@ -29,6 +36,40 @@
   <img align="center" alt="Firebase" height="40" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   <img align="center" alt="Supabase" height="40" width="40" src="https://api.iconify.design/logos:supabase-icon.svg">
 </div>
-----
 
-   ![Snake animation](https://github.com/georgepiter/georgepiter/blob/output/github-contribution-grid-snake.svg)
+---
+
+## 🧠 Sobre mim
+
+Sou o Emanuel, estudante e desenvolvedor focado em construir soluções criativas com código. Tenho experiência em projetos com PHP, React Native, bancos de dados e APIs. Estou sempre aprendendo algo novo, buscando me aprimorar e encarar novos desafios no mundo da programação.
+
+---
+
+## 🔥 Projetos em Destaque
+
+- [📦 API de CEP / PHP](https://github.com/EmanuelTFF/cep.git): Consulta de endereços via CEP.
+- [🛍️ Loja Online / HTML, CSS, PHP, JavaSript MySql](https://github.com/EmanuelTFF/Infinity.git): Sistema com carrinho, frete.
+- [📱 App de reserva de hotal com SupaBase](https://github.com/EmanuelTFF/helia): App mobile com autenticação e banco de dados.
+
+
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelTFF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelTFF&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+## 📫 Contato
+
+- ✉️ Email: [etonisflorzfilho@gmail.com](mailto:etonisflorzfilho@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/emanuel-tonis-florz-filho-90139b292](https://www.linkedin.com/in/emanuel-tonis-florz-filho-90139b292/)
+
+---
+
+### 🐍 Snake Animation
+
+![Snake animation](https://github.com/georgepiter/georgepiter/blob/output/github-contribution-grid-snake.svg)
