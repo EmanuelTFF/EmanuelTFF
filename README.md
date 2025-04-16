@@ -58,7 +58,7 @@ Sou o Emanuel, estudante e desenvolvedor focado em construir soluções criativa
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EmanuelTFF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelTFF&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmanuelTFF&layout=compact&langs_count=7&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=79ff97&hide_border=true"/>
 </div>
 
 ---
