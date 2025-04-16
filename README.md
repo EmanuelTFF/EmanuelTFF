@@ -1,8 +1,6 @@
 <h1 align="center">Fala aí, eu sou o Emanuel 👋</h1>
 
 <p align="center"> 
-  | Desenvolvedor em formação |
- 
 <p align="left">
   <a href="https://www.linkedin.com/in/emanuel-tonis-florz-filho-90139b292/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
