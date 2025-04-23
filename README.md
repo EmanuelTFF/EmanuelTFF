@@ -39,7 +39,7 @@
 
 ## 🧠 Sobre mim
 
-Sou o Emanuel, estudante e desenvolvedor focado em construir soluções criativas com código. Tenho experiência em projetos com PHP, React Native, bancos de dados e APIs. Estou sempre aprendendo algo novo, buscando me aprimorar e encarar novos desafios no mundo da programação.
+Estudante da área de TI, desenvolvedor focado em construir soluções criativas com código. Tenho experiência em projetos com PHP, React Native, bancos de dados e APIs. Estou sempre aprendendo algo novo, buscando me aprimorar e encarar novos desafios no mundo da programação.
 
 ---
 
