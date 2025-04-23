@@ -47,7 +47,7 @@ Estudante da área de TI, desenvolvedor focado em construir soluções criativas
 
 - [📦 API de CEP / PHP](https://github.com/EmanuelTFF/cep.git): Consulta de endereços via CEP.
 - [🛍️ Loja Online / HTML, CSS, PHP, JavaSript MySql](https://github.com/EmanuelTFF/Infinity.git): Sistema com carrinho, frete.
-- [📱 App de reserva de hotal com SupaBase](https://github.com/EmanuelTFF/helia): App mobile com autenticação e banco de dados.
+- [📱 App de reserva de hotel com SupaBase](https://github.com/EmanuelTFF/helia): App mobile com autenticação e banco de dados.
 
 
 ---
