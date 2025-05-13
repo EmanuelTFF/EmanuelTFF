@@ -23,7 +23,7 @@
   <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="MariaDB" height="60" width="90" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg">
 
-  <!-- Ferramentas -->
+  <!-- Ferramentas --> 
   <img align="center" alt="Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img align="center" alt="GitHub" height="50" width="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
   <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
